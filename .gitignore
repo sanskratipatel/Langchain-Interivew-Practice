@@ -1,0 +1,30 @@
+
+# Environment variables
+.env
+.env.*
+
+# Python virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Secrets and credentials
+secrets.json
+credentials.json
